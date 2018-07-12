@@ -1,0 +1,2 @@
+201805302022   0     1     0kerry D:\Workspace\Wisconsin\2018\Summer_2018\GEOG777\projects\1\files\files\well_nitrate\well_IDW = IDW(well_nitrate_WGS,  'z_val', #
+201805302023   0     0     0kerry D:\Workspace\Wisconsin\2018\Summer_2018\GEOG777\projects\1\files\files\well_nitrate\well_idw2 = IDW(well_nitrate_WGS,  'nitr_ran
